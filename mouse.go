@@ -1,4 +1,4 @@
-package main
+package inputhook
 
 /*
 extern void hook(int hType);

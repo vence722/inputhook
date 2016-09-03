@@ -1,4 +1,4 @@
-package main
+package inputhook
 
 const (
 	HOOK_TYPE_KEYBOARD = 0
